@@ -1,24 +1,20 @@
 CleaningDataCourseProject
 =========================
 
-* Student:
-	Michelle
-Eshow
-* Course:
-
-	Getting
+* Course --
+Getting
 and
 Cleaning
 Data,
-https://class.coursera.org/getdata-006/
-* Assignment:	Course
+[https://class.coursera.org/getdata-006/]
+* Assignment --	Course
 project,
-see https://class.coursera.org/getdata-006/human_grading/view/courses/972584/assessments/3/submissions
+see [https://class.coursera.org/getdata-006/human_grading/view/courses/972584/assessments/3/submissions]
 * Due
-Date:
-	August
+Date -- August
 24,
 2014
+
 
 ## Overview
 
