@@ -1,21 +1,20 @@
 CleaningDataCourseProject
 =========================
 
-Student:
+* Student:
 	Michelle
 Eshow
-Course:
+* Course:
 
 	Getting
 and
 Cleaning
 Data,
 [https://class.coursera.org/getdata-006/]
-Assignment:	Course
+* Assignment:	Course
 project,
-see
-			[https://class.coursera.org/getdata-006/human_grading/view/courses/972584/assessments/3/submissions]
-Due
+see [https://class.coursera.org/getdata-006/human_grading/view/courses/972584/assessments/3/submissions]
+* Due
 Date:
 	August
 24,
@@ -143,7 +142,7 @@ are
 the
 variables that were retained in the first tidy data set:
 
-Name					Units
+Name				|	Units
 ------------------- | ---------
 tBodyAcc-mean-X		|	g
 |tBodyAcc-mean-Y	|	g
