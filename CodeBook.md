@@ -15,8 +15,8 @@ Date -- August
 24,
 2014
 
-##
-Overview
+
+## Overview
 
 Refer
 to
@@ -43,8 +43,7 @@ tidy
 data
 sets.
 
-##
-Study
+## Study
 Design
 
 The
@@ -66,8 +65,7 @@ Genova,
 Genoa,
 Italy.
 
-##
-Code
+## Code
 Book
 
 All

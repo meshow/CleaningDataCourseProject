@@ -64,7 +64,7 @@ run_analysis <- function()
     data_all$Activity[data_all$Activity == 6] <- "Lying Down"
         
     # Write out first set of tidy data as a text file
-    write.table(data_all, file = "../EshowTidyData1.txt")
+    write.table(data_all, file = "../TidyDataSet1.txt", row.name = FALSE)
     
     # Group the data by subject and then by activity, then take the mean of each
     # column of data for that group
@@ -79,7 +79,7 @@ run_analysis <- function()
     colnames_means <- paste("Mean of", colnames_meanstd, sep=" ")
     colnames(data_mean) <- c("Subject", "Activity", colnames_means)
     
-    write.table(data_mean, file = "../EshowTidyData2.txt")
+    write.table(data_mean, file = "../TidyDataSet2.txt", row.name = FALSE)
     
     data_mean
 }
