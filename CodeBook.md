@@ -15,125 +15,21 @@ Date -- August
 24,
 2014
 
-
 ## Overview
 
-Refer
-to
-this
-project's
-README.md
-for
-details
-on
-the
-objectives
-of
-the
-assignment
-and
-the
-exact
-steps
-taken
-to
-create
-the
-tidy
-data
-sets.
+Refer to this project's README.md for details on the objectives of the assignment and the exact steps taken to create the tidy data sets.
 
-## Study
-Design
+## Study Design
 
-The
-data
-for
-this
-project
-were
-collected
-by
-a
-team
-at
-Universita
-degli
-Studi
-di
-Genova,
-Genoa,
-Italy.
+The data for this project were collected by a team at Universita degli Studi di Genova, Genoa, Italy.
 
-## Code
-Book
+## Code Book
 
-All
-of
-the
-variables
-in
-the
-original
-data
-are
-described
-in
-the
-file
-features.txt
-that
-was
-included
-with
-the
-data.
+All of the variables in the original data are described in the file features.txt that was included with the data.
 
-All
-accelerations
-are
-in
-fractions
-of
-one
-gravity,
-or
-'g'.
-All
-rotational
-speeds
-are
-in
-radians/second.
-Jerk
-measurements
-are
-in
-g/sec,
-while
-rotational
-acceleration
-is
-in
-radians/second-squared.
+All accelerations are in fractions of one gravity, or 'g'. All rotational speeds are in radians/second. Jerk measurements are in g/sec, while rotational acceleration is in radians/second-squared.
 
-The
-first
-tidy
-data
-set
-extracted
-68
-variables
-from
-the
-original,
-unmodified
-data.
-More information about the parameters was included in the features_info.txt file in the data set. Following
-are
-the
-variables that were retained in the first tidy data set:
+The first tidy data set extracted 68 variables from the original, unmodified data. More information about the parameters was included in the features_info.txt file in the data set. Following are the variables that were retained in the first tidy data set:
 
 Name				|	Units
 ------------------- | ---------
