@@ -59,13 +59,13 @@ Second, wrote script run_analysis.R with function run_analysis() that has the fo
 
 11. Replace the numerical Activities value in each row with the appropriate name of the activity, based on the content of the activity_labels.txt file. Slightly changed the names to be more readable and grammatically correct (Lying, not laying!)
 
-12. The above steps create the first tidy data set. Write the tidy data set to file EshowTidyData1.txt.
+12. The above steps create the first tidy data set. Write the tidy data set to file TidyDataSet1.txt.
 
 13. For the second tidy data set, aggregate the first set while grouping first by the human Subject identifier, then by the Activity they were doing. While aggregating, compute the mean of each mean and std measurement. This results in one row of mean data per activity per subject. The dimension of the result is 68 columns and 30 subjects * 6 activities or 180 rows.
 
 14. Rename the feature columns to be prefixed with "Mean of" so they are meaningful.
 
-15. Write the second tidy data set to EshowTidyData2.txt
+15. Write the second tidy data set to TidyDataSet2.txt
 
 16. Return the second tidy data set to the client.
 
